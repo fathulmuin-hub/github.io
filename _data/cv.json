@@ -2,26 +2,26 @@
   "basics": {
     "name": "Fathul Muin",
     "email": "fathul.m@ugm.ac.id",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "phone": "(0274) 543120",
+    "website": "https://acadstaff.ugm.ac.id/fathulmuin",
+    "summary": "Currently employed at Universitas Gadjah Mada. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Yogyakarta",
+      "countryCode": "ID",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=KPVrvm0AAAAJ&hl=id&authuser=1&oi=ao"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://www.scopus.com/redirect.uri?url=https://orcid.org/0000-0002-8242-3757&authorId=57213187969&origin=AuthorProfile&orcId=0000-0002-8242-3757&category=orcidLink"
       },
       {
         "network": "GitHub",
